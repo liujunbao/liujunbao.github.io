@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://liujunbao.github.io/about/</loc>
-    <lastmod>2021-11-15T10:20:27+08:00</lastmod>
+    <loc>https://liujunbao.github.io/categories/</loc>
   </url><url>
-    <loc>http://liujunbao.github.io/categories/</loc>
+    <loc>https://liujunbao.github.io/tags/</loc>
   </url><url>
-    <loc>http://liujunbao.github.io/tags/</loc>
-  </url><url>
-    <loc>http://liujunbao.github.io/</loc>
+    <loc>https://liujunbao.github.io/</loc>
   </url>
 </urlset>

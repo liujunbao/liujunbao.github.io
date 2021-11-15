@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 小保</title>
-    <link>http://liujunbao.github.io/tags/</link>
+    <link>https://liujunbao.github.io/tags/</link>
     <description>Recent content in Tags on 小保</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language><atom:link href="http://liujunbao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language><atom:link href="https://liujunbao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
